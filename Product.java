@@ -1,6 +1,7 @@
 package family;
 
 //Hello World
+
 public class Product {
 	private String name;
 	private double price;
